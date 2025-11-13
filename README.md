@@ -46,3 +46,15 @@ All datasets are used and shared under their respective open licenses. Please at
 > California Department of Public Health. *Sugar-Sweetened Beverage Consumption in California Residents.* [Data.gov](https://catalog.data.gov/dataset/sugar-sweetened-beverage-consumption-in-california-residents-69c65). Used under the [Open Data Commons Open Database License (ODbL) v1.0](https://opendatacommons.org/licenses/odbl/1-0/).
 
 > U.S. Department of Agriculture, Agricultural Research Service. *What We Eat in America (WWEIA) Database.* [Data.gov](https://catalog.data.gov/dataset/what-we-eat-in-america-wweia-database-f7f35). Used under the [Open Data Commons Open Database License (ODbL) v1.0](https://opendatacommons.org/licenses/odbl/1-0/).
+
+Knowledge Sets
+
+U.S. Department of Agriculture and U.S. Department of
+Health and Human Services. Dietary Guidelines for Americans, 2020-2025.
+9th Edition. December 2020. Available at DietaryGuidelines.gov.
+
+>https://www.move.va.gov/docs/veteranworkbook/MoveVetWorkBook.pdf
+
+>EFSA (European Food Safety Authority), 2017. Dietary reference values for
+nutrients: Summary report. EFSA supporting publication 2017:e15121. 92 pp.
+doi:10.2903/sp.efsa.2017.e15121
